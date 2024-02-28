@@ -1,5 +1,13 @@
 # Changelog
 
+### [3.4.1](https://www.github.com/jeffhsu3/snakemake-wrappers/compare/v3.4.0...v3.4.1) (2024-02-28)
+
+
+### Performance Improvements
+
+* Update datavzrd to 2.36.2 ([#2694](https://www.github.com/jeffhsu3/snakemake-wrappers/issues/2694)) ([b1ea355](https://www.github.com/jeffhsu3/snakemake-wrappers/commit/b1ea355d3bd25db056e4a96b794769754dc61e3b))
+* Update Datavzrd to 2.36.3 ([#2696](https://www.github.com/jeffhsu3/snakemake-wrappers/issues/2696)) ([baa8376](https://www.github.com/jeffhsu3/snakemake-wrappers/commit/baa8376bb89ea08a04323df7eed2e63766547180))
+
 ## [3.4.0](https://www.github.com/snakemake/snakemake-wrappers/compare/v3.3.7...v3.4.0) (2024-02-27)
 
 
